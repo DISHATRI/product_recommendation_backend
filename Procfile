@@ -1,0 +1,1 @@
+web: gunicorn GridRESTApi.wsgi --log-file -
